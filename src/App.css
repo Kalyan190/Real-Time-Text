@@ -1,0 +1,12 @@
+.App {
+   font-family: sans-serif;
+   text-align: center;
+}
+
+.area {
+   height: 40px;
+   border: 1px solid black;
+   text-align: left;
+   padding: 5px;
+   overflow: scroll;
+}
