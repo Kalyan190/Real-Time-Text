@@ -1,3 +1,6 @@
+# Live Demo
+<a href='https://real-time-text.vercel.app/'>https://real-time-text.vercel.app/</a>
+<hr>
 # Real-Time Text Editor
 
 This is a **React-based real-time text editor** that allows users to type text, view statistics (unique word count, character count excluding spaces and punctuation), search and replace text, and store text in local storage.
@@ -37,6 +40,7 @@ npm run dev
 > [!NOTE]
 > Go to localhost 5173 to view project :
 > http://localhost:5173/
+
    
 
 <hr>
